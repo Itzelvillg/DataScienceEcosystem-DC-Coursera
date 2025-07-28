@@ -1,0 +1,1 @@
+This repository contains the notebook completed as part of the **"Working with Files in Jupyter Notebooks"** lab from the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) on Coursera.
